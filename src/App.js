@@ -11,6 +11,7 @@ import Alert from "./components/Alert";
 import LoginArea from "./components/LoginArea";
 import AuthState from "./context/auth/AuthState";
 import PrivateRoute from './components/PrivateRoute';
+
 const App = () => {
   return (
     <AuthState>
