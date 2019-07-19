@@ -1,0 +1,14 @@
+export const GET_DETAILS = 'GET_DETAILS';
+export const ADD_DETAIL = 'ADD_DETAIL';
+export const GET_DETAIL = 'GET_DETAIL';
+export const DELETE_DETAIL = 'DELETE_DETAIL';
+export const DETAILS_ERROR = 'DETAILS_ERROR';
+export const SET_LOADING   = 'SET_LOADING';
+export const SET_CURRENT   = 'SET_CURRENT';
+export const CLEAR_CURRENT   = 'CLEAR_CURRENT';
+export const UPDATE_DETAIL   = 'UPDATE_DETAIL';
+export const CLEAR_ALL   = 'CLEAR_ALL';
+export const SET_ALERT   = 'SET_ALERT';
+export const REMOVE_ALERT   = 'REMOVE_ALERT';
+export const LOGIN_SUCCESS   = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL   = 'LOGIN_FAIL';

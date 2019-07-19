@@ -1,0 +1,25 @@
+{
+  "details": [
+    {
+      "name": "Bunny",
+      "email": "bunny@gmail.com",
+      "phone": "8328578067",
+      "type": "email",
+      "id": "2"
+    },
+    {
+      "name": "Ajay Krishna Reddy Nalla",
+      "email": "ajaykrish.nalla@gmail.com",
+      "phone": "8328578067",
+      "type": "phone",
+      "id": "487fdad0-b45a-4360-ab38-c588a36b62e4"
+    },
+    {
+      "name": "Bunny",
+      "email": "test@test.com",
+      "phone": "12121212121",
+      "type": "email",
+      "id": "d9106e2f-24f9-44a9-9c52-5c31970192b6"
+    }
+  ]
+}
